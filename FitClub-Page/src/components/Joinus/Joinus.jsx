@@ -16,7 +16,7 @@ const Joinus = () => {
           });
       };
   return (
-    <div className="joinus">
+    <div className="joinus" id="joinus">
         <div className="left-j">
             <hr></hr>
             <div>
